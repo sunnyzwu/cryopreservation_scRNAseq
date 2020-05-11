@@ -1,30 +1,25 @@
 # cryopreservation_scRNAseq
-Code related to the cryopreservation benchmarking of human cancers using scRNA-Seq on the 10X Chromium platform 
+Code related to the data processing and visualisation related to the Wu et al. manuscript "Cryopreservation of human cancers conserves tumour heterogeneity for single-cell multi-omics analysis". This study describes the benchmarking of cryopreservation across human cancers using scRNA-Seq on the 10X Chromium platform. 
 
-### 01 cellranger count processing  
-job submission script for single-cell RNA-Seq processing using cellranger v2.1.1.
+### 01_cellranger_count_processing  
+job submission script for single-cell RNA-Seq processing using cellranger v2.2.0, mapping to the GRCh38 reference genome.
 
-
-### 02 seurat v2 processing of individual datasets
+### 02_seurat_v3_individual_replicate_processing
 job submission script and R script for processing individual seurat objects
 
-
-### 03 seurat v2 data integration
+### 03_seurat_v3_integration_of_replicates
 job submission script and R script for integrating seurat objects
 
+### 04_cellranger_integration_of_replicates
 
-### 04 cellranger integration and normalisation
+### 05 clustering_metrics
+silhouette scores, mixing metric and local structure scores
 
+### 06 bulk_and_cluster_correlations 
 
-### 05 silhouette scores, mixing metric and local structure scores
+### 07 pathway_enrichment
+differential gene expresison and pathway enrichment
 
-
-### 06 bulk and cluster level gene and UMI correlations 
-
-
-### 07 differential gene expresison and pathway enrichment
-
-
-### 08 CITE-Seq analysis
+### 08 CITESeq_analysis
 
 
