@@ -1,0 +1,13 @@
+sample_num,sampleID,path_to_matrix
+1,CID4471,/share/ScratchGeneral/sunwu/Chromium_10X/count_data/CID4471/count_CID4471_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
+2,CID4471CELLSUS,/share/ScratchGeneral/sunwu/Chromium_10X/count_data/CID4471_CELLSUS/count_CID4471_CELLSUS_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
+3,CID4471CHUNKS,/share/ScratchGeneral/sunwu/Chromium_10X/count_data/CID4471_CHUNKS/count_CID4471_CHUNKS_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
+4,CID4497,/share/ScratchGeneral/sunwu/Chromium_10X/count_data/CID4497_primary/count_CID4497_1_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
+5,CID4497CELLSUS,/share/ScratchGeneral/sunwu/Chromium_10X/count_data/CID4497_primary_CELLSUS/count_CID4497_CELLSUS_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
+6,CID4497CHUNKS,/share/ScratchGeneral/sunwu/Chromium_10X/count_data/CID4497_primary_CHUNKS/count_CID4497_CHUNKS_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
+7,CID4513,/share/ScratchGeneral/sunwu/Chromium_10X/count_data/CID4513/count_CID4513_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
+8,CID4513CELLSUS,/share/ScratchGeneral/sunwu/Chromium_10X/count_data/CID4513_CELLSUS/count_CID4513_CELLSUS_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
+9,CID4513CHUNKS,/share/ScratchGeneral/sunwu/Chromium_10X/count_data/CID4513_CHUNKS/count_CID4513_CHUNKS_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
+10,CID4523,/share/ScratchGeneral/sunwu/Chromium_10X/count_data_2/CID4523/count_CID4523_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
+11,CID4523CELLSUS,/share/ScratchGeneral/sunwu/Chromium_10X/count_data_2/CID4523_CELLSUS/count_CID4523_CELLSUS_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
+12,CID4523CHUNKS,/share/ScratchGeneral/sunwu/Chromium_10X/count_data_2/CID4523_CHUNKS/count_CID4523_CHUNKS_GRCh38_mm10/outs/raw_gene_bc_matrices/GRCh38/
