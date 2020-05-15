@@ -1,0 +1,4 @@
+library_id,molecule_h5
+CID4513,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/CID4513/count_CID4513_GRCh38/outs/molecule_info.h5
+CID4513CELLSUS,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/CID4513CELLSUS/count_CID4513_CELLSUS_GRCh38/outs/molecule_info.h5
+CID4513CHUNKS,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/CID4513CHUNKS/count_CID4513_CHUNKS_GRCh38/outs/molecule_info.h5

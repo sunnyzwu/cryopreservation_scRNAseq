@@ -1,0 +1,4 @@
+library_id,molecule_h5
+PID17267,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/PID17267/count_CID17267_GRCh38/outs/molecule_info.h5
+PID17267CELLSUS,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/PID17267CELLSUS/count_PID17267CELLSUS_GRCh38/outs/molecule_info.h5
+PID17267CHUNKS,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/PID17267CHUNKS/count_PID17267CHUNKS_GRCh38/outs/molecule_info.h5

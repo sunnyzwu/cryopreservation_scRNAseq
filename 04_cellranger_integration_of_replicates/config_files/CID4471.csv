@@ -1,0 +1,4 @@
+library_id,molecule_h5
+CID4471,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/CID4471/count_CID4471_GRCh38/outs/molecule_info.h5
+CID4471CELLSUS,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/CID4471CELLSUS/count_CID4471_CELLSUS_GRCh38/outs/molecule_info.h5
+CID4471CHUNKS,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/CID4471CHUNKS/count_CID4471_CHUNKS_GRCh38/outs/molecule_info.h5

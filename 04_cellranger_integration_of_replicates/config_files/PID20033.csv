@@ -1,0 +1,3 @@
+library_id,molecule_h5
+PID20033,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/PID20033/count_PID20033_GRCh38/outs/molecule_info.h5
+PID20033CHUNKS,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/PID20033CHUNKS/count_PID20033CHUNKS_GRCh38/outs/molecule_info.h5

@@ -1,0 +1,4 @@
+library_id,molecule_h5
+SCC180161,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/SCC180161/count_SCC180161_GRCh38/outs/molecule_info.h5
+SCC180161ND,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/SCC180161ND/count_SCC18-0161_ND_GRCh38/outs/molecule_info.h5
+SCC180161SD,/paella/TumourProgressionGroupTemp/projects/data/cellranger_count/cryopreservation_paper/SCC180161SD/count_SCC18-0161_SD_GRCh38/outs/molecule_info.h5
