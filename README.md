@@ -30,3 +30,8 @@ Differential gene expresison of integrated clusters from each cryopreserved repl
 ### 08 CITESeq_analysis
 Seurat processing and visualisation of CITESeq data of an independent breast cancer cryopreserved as solid tissue (CT).
 
+### Data availability
+The scRNA-Seq data from this study has been deposited in the European Nucleotide Archive (ENA) under the accession code XXXXX. This depository includes the demultiplexed paired ended reads (R1 and R2), Illumina indices and bam files processed using the Cellranger software. These paired ended reads (R1 and R2) and Illumina indices can be used for input for data reprocessing from the '01 cellranger count processing' step.
+
+### Contact
+Please email s.wu@garvan.org.au for any additional questions about the analytical methods used in this paper. All other relevant data are available from the authors upon request.
